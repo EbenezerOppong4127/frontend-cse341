@@ -1,3 +1,5 @@
+### Craig's Version
+
 # Temple API
 
 This API is intended for a team assignment in CSE 341 to learn how to use Swagger for API Documentation.
